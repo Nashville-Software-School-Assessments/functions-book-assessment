@@ -1,0 +1,23 @@
+{
+  "name": "functions-assessment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nashville-Software-School-Assessments/functions-book-assessment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nashville-Software-School-Assessments/functions-book-assessment/issues"
+  },
+  "homepage": "https://github.com/Nashville-Software-School-Assessments/functions-book-assessment#readme",
+  "dependencies": {
+    "@actions/core": "^1.6.0",
+    "jest": "^27.4.5"
+  }
+}
